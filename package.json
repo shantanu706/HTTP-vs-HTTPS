@@ -1,0 +1,16 @@
+{
+  "name": "login-page",
+  "version": "0.0.1",
+  "description": "This for the page of test HTTP and HTTPs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "auto": "npx nodemon server.js"
+  },
+  "author": "Shantanu Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
