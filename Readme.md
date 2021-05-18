@@ -7,6 +7,7 @@
 - Install the Certificate -- > rootCA
 
 ```sh
+cd ICS-Mini-Project-master
 npm install
 node app.js
 ```
