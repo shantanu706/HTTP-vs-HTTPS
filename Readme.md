@@ -4,7 +4,7 @@
 
 ### Installation 
 
-- Install the Certificate -- > rootCA.pem and localhost.crt
+- Install the Certificate's -- > Following Files -> rootCA.pem and localhost.crt
 
 ```sh
 cd ICS-Mini-Project-master
